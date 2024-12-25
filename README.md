@@ -6,15 +6,16 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 
  ## Made by 
  - Tut: [GitHub](https://github.com/TutTrue) - [LinkedIn](https://www.linkedin.com/in/mahmoud-hamdy-8b6825245/)
- - HÃÂÃÂÃÂÃÂ¼sam: [GitHub](https://github.com/husamahmud) - [LinkedIn](https://www.linkedin.com/in/husamahmud/)
+ - HÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¼sam: [GitHub](https://github.com/husamahmud) - [LinkedIn](https://www.linkedin.com/in/husamahmud/)
 
- Happy coding! ÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ
+ Happy coding! ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Math
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/nithish0302/LeetCode_Problems/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/nithish0302/LeetCode_Problems/tree/master/0062-unique-paths) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/nithish0302/LeetCode_Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
 |  |
@@ -44,4 +45,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/nithish0302/LeetCode_Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/nithish0302/LeetCode_Problems/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/nithish0302/LeetCode_Problems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
